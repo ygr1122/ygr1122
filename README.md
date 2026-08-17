@@ -1,34 +1,35 @@
 # Backend & AI Developer
 
-Java/Spring 기반 백엔드와 Python 기반 AI 서버를 공부하고 프로젝트로 구현하고 있습니다.
+I build Java/Spring backend services and Python-based AI systems, with a focus on turning models and data pipelines into practical applications.
 
 ## Projects
 
 ### Backend
 
-- [Meeting Room Reservation API](https://github.com/ygr1122/meeting-room-reservation-api) — Spring Boot, JPA, PostgreSQL 기반 인증·회의실·예약 API
-- **YEOBAEK Backend** — Spring Boot, PostgreSQL, Redis 기반 관광 기록·추천 서비스 API *(팀 비공개 저장소)*
+- [Meeting Room Reservation API](https://github.com/ygr1122/meeting-room-reservation-api) — Authentication, meeting room, and reservation APIs built with Spring Boot, JPA, and PostgreSQL
+- **YEOBAEK Backend** — A Spring Boot, PostgreSQL, and Redis backend for a travel journal and recommendation service *(private team repository)*
 
-### AI
+### AI & Data
 
-- [InterviewMirror AI](https://github.com/KGU-CareerView/InterviewMirror-AI) — ONNX 추론과 Gemini 기반 면접 지원 기능을 제공하는 gRPC 서버
-- [Net-Zero AI Server](https://github.com/KGU-Projects/ZeroWave-ai) — FastAPI, LightGBM, Local Llama, Redis를 활용한 수요 예측·설명 서버
-- [AI Coding Agent Action Classifier](https://github.com/ygr1122/ai-action-classifier) — TF-IDF 앙상블과 ModernBERT 실험을 포함한 데이콘 분류 프로젝트
-- **YEOBAEK AI** — Vision AI와 혼잡도 분석 모델 *(팀 비공개 저장소)*
+- [AURORA](https://github.com/jeehun3020/AURORA) — A validation-centered Northern Sea Route risk index and departure-timing decision prototype using sea-ice, weather, and Korean polar observation data
+- [InterviewMirror AI](https://github.com/KGU-CareerView/InterviewMirror-AI) — A gRPC server for ONNX inference and Gemini-powered interview assistance
+- [Net-Zero AI Server](https://github.com/KGU-Projects/ZeroWave-ai) — A demand forecasting and explanation server built with FastAPI, LightGBM, Local Llama, and Redis
+- [AI Coding Agent Action Classifier](https://github.com/ygr1122/ai-action-classifier) — A Dacon classification project featuring TF-IDF ensembles and ModernBERT experiments
+- **YEOBAEK AI** — Vision AI and crowd-density analysis models *(private team repository)*
 
-### Web & Systems
+### Frontend & Systems
 
-- [InterviewMirror Frontend](https://github.com/KGU-CareerView/InterviewMirror-FE) — 면접 준비 및 리포트 화면을 구현한 웹 프론트엔드
-- [SIC Two-Pass Assembler](https://github.com/ygr1122/sic-assembler) — C로 구현한 SIC 2-pass 어셈블러
+- [InterviewMirror Frontend](https://github.com/KGU-CareerView/InterviewMirror-FE) — Web interfaces for interview preparation, sessions, and reports
+- [SIC Two-Pass Assembler](https://github.com/ygr1122/sic-assembler) — A two-pass SIC assembler implemented in C
 
 ## Tech Stack
 
 - **Backend:** Java, Spring Boot, Spring Data JPA, PostgreSQL, Redis, Docker
-- **AI:** Python, FastAPI, scikit-learn, LightGBM, ONNX, gRPC
+- **AI & Data:** Python, FastAPI, scikit-learn, LightGBM, ONNX, gRPC
 - **Tools:** Git, GitHub, Docker Compose
 
 ## Currently Learning
 
-- 테스트 가능한 백엔드 설계와 데이터베이스 모델링
-- AI 모델을 실제 서비스 API로 연결하는 방법
-- 협업을 위한 Git 브랜치와 문서화
+- Testable backend architecture and database modeling
+- Integrating AI models into production-oriented APIs
+- Git workflows and documentation for effective collaboration
