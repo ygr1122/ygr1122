@@ -12,7 +12,7 @@ Java/Spring 기반 백엔드와 Python 기반 AI 서버를 공부하고 프로�
 ### AI
 
 - [InterviewMirror AI](https://github.com/KGU-CareerView/InterviewMirror-AI) — ONNX 추론과 Gemini 기반 면접 지원 기능을 제공하는 gRPC 서버
-- [Net-Zero AI Server](https://github.com/INHA-NETZERO/ai) — FastAPI, LightGBM, Local Llama, Redis를 활용한 수요 예측·설명 서버
+- [Net-Zero AI Server](https://github.com/KGU-Projects/ZeroWave-ai) — FastAPI, LightGBM, Local Llama, Redis를 활용한 수요 예측·설명 서버
 - [AI Coding Agent Action Classifier](https://github.com/ygr1122/ai-action-classifier) — TF-IDF 앙상블과 ModernBERT 실험을 포함한 데이콘 분류 프로젝트
 - **YEOBAEK AI** — Vision AI와 혼잡도 분석 모델 *(팀 비공개 저장소)*
 
